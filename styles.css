@@ -10,7 +10,7 @@ article p:first-child {
 }
 
 article p:nth-child(2) {
-    /* Keep default text color */
+    color: initial;
 }
 
 article p:last-child {
